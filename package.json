@@ -2,7 +2,7 @@
     "name": "laravel-create-guarded",
     "displayName": "Create Guarded",
     "description": "Create guarded in laravel model",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "pkboom",
     "engines": {
         "vscode": "^1.21.0"
